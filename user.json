@@ -1,0 +1,26 @@
+{
+    "card_one": {
+        "zagolovok": "Наруто",
+        "opisanie": "999 серии"
+    },
+    "card_two": {
+        "zagolovok": "Твоя апрельская ложь",
+        "opisanie": "23 серии"
+    },
+    "card_three": {
+        "zagolovok": "Ван Пис",
+        "opisanie": "1044 серии"
+    },
+    "card_four": {
+        "zagolovok": "Блич",
+        "opisanie": "366 серии"
+    },
+    "card_five": {
+        "zagolovok": "Хоримия",
+        "opisanie":"13 серии"
+    },
+    "card_six": {
+        "zagolovok": "Черный клевер",
+        "opisanie": "170 серии"
+    }
+}
